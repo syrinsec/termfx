@@ -26,7 +26,7 @@ type Registry struct {
 
 //New creates a new registry which can be used to register event call backs
 func New(split ...string) *Registry {
-
+ 
 	var CustomSplit = []string{"<<", ">>"}
 	if len(split) > 1 {
 		CustomSplit[0] = split[0]
