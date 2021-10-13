@@ -6,3 +6,6 @@ Examples: /examples
 
 ## Credits
 • Credits to Vayala for providing fasttemplate, this wouldn't have been a go module if it wasn't for them. (https://github.com/valyala/fasttemplate)
+
+## No license
+• This repo purposely has **no** license, therefore, nobody can reproduce, distribute or create any derivative versions of this work. 
