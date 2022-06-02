@@ -29,9 +29,9 @@ func main() {
 hello [[$username]]
 
 start
-[[sleep(500)]]
+<<sleep(500)>>
 that was 500ms
-[[sleep(1000)]]
+<<sleep(1000)>>
 and that last one was 1 second
 
 	`, os.Stdout)
